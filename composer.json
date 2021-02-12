@@ -1,0 +1,17 @@
+{
+    "name": "ygor/my-receitas",
+    "authors": [
+        {
+            "name": "Ygor Roberto Guedes",
+            "email": "ygorrobertoguedes@hotmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
